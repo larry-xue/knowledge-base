@@ -1,4 +1,5 @@
 {
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "resources"
+  "attachmentFolderPath": "resources",
+  "alwaysUpdateLinks": true
 }
